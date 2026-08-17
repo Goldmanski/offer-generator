@@ -145,8 +145,8 @@ Responsible for loading external resources such as product data.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd pdf-offer-generator
+git clone https://github.com/Goldmanski/offer-generator.git
+cd offer-generator
 ```
 
 Create a virtual environment:
