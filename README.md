@@ -1,12 +1,10 @@
 # 📄 PDF Offer Generator
 
-## 🚀 Live Demo
-
-https://offer-generator-app.streamlit.app
-
 A web application for creating professional PDF offers for customers. The application allows users to prepare quotations, manage products, calculate totals, validate required information, and generate a ready-to-send PDF document.
 
 The project was built as a Proof of Concept with a strong focus on clean architecture, domain modeling, and maintainable code.
+
+🚀 **[Live Demo](https://offer-generator-app.streamlit.app)**
 
 ---
 
